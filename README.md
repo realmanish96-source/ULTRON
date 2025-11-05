@@ -1,2 +1,2 @@
 # ULTRON
-ultron is sarcastic ai chat bot or a virtual asistant. it can perform basic tasks like to open some perticular apps like youtube, github etc. it has easter eggs on movie which will give some sarcastic comments like if you will ask him about vision or avengers. its a basic level chatbot developed by me. 
+Ultron is a simple chatbot and a prototype model that can be run for certain use-cases, mainly launching certain applications like YouTube, GitHub, etc. The model has a sarcastic personality and is able to gather contextual information about cinema-character Easter Eggs about Vision or the Avengers and respond accordingly. It is a proof of concept, investigating NLP intent mapping, command execution, and personality integration, in a restricted environment.
